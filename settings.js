@@ -12,13 +12,13 @@ global.anticall = false
 global.autoReadChat = false
 global.alwaysonline = true
 global.autoswview = false
-global.public = false
+global.public = true
 global.autoreact = false
 global.antidelete = false
 global.autotyping = false
 global.autoBio = true
 global.antiSpam = true
-global.sign = "⌛"
+global.sign = "⌛🔰"
 // ☞ ➻ ➽ ☛ 〆 
 global.bank = "Opay"
 global.bankname = "KAO"
@@ -31,17 +31,17 @@ global.newsletterJid = "120363304326105871@newsletter"
 global.newsletterName = "KAO"
 global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙺𝙰𝙾"
 global.ownerName = "KAO"
-global.syt = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.sgc = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.sig = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.web = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
+global.syt = 'https://chat.whatsapp.com/CAhFpQcv6MwG75C6kwra0y'
+global.sgc = 'https://chat.whatsapp.com/CAhFpQcv6MwG75C6kwra0y'
+global.sig = 'https://chat.whatsapp.com/CAhFpQcv6MwG75C6kwra0y'
+global.web = 'https://chat.whatsapp.com/CAhFpQcv6MwG75C6kwra0y'
 //setbot
 global.botName = "KAO MD" 
 global.wm = "𝐊𝐀𝐎"
 global.fake = botName
 global.setmenu = "image" 
 global.docType = "application/vnd.ms-excel"
-global.themeemoji = '⌛'
+global.themeemoji = '⌛🔰'
 global.fotoRandom = [
 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbBBpaPJdt2V0Hab-7vJjlwr2NInRZ0hb6nA&usqp=CAU",
 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_KpekxrXL95vx4t9Ur6n4NRxxcrLAZWE-mA&usqp=CAU"]
@@ -76,7 +76,7 @@ global.Lolhuman = '652c7664865e2b0e70929768',
 global.FilestackApi = 'AJgyzwz0FQk67sTuplYoiz'  
 global.gcounti = {
 'prem' : 1000,
-'user' : 5
+'user' : 10
 } 
  
 
